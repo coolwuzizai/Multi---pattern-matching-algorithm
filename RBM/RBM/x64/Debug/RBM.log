@@ -1,0 +1,5 @@
+﻿  RBM.cpp
+c:\users\administrator\documents\visual studio 2015\projects\rbm\rbm\rbm.cpp(14): warning C4091: “typedef ”: 没有声明变量时忽略“rect”的左侧
+c:\users\administrator\documents\visual studio 2015\projects\rbm\rbm\rbm.cpp(60): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  RBM.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RBM\x64\Debug\RBM.exe
+  RBM.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RBM\x64\Debug\RBM.pdb (Partial PDB)
